@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1000" width="1800" height="1000">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#dff7ff"/><stop offset=".58" stop-color="#f4fff0"/><stop offset="1" stop-color="#b6e9a0"/></linearGradient>
+ <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#fffdf1"/><stop offset="1" stop-color="#e5f2dc"/></linearGradient>
+ <linearGradient id="roof" x2="0" y2="1"><stop stop-color="#688f7b"/><stop offset="1" stop-color="#355f53"/></linearGradient>
+ <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#2c7187"/><stop offset="1" stop-color="#163f5b"/></linearGradient>
+ <linearGradient id="grass" x2="0" y2="1"><stop stop-color="#8bd36d"/><stop offset="1" stop-color="#3d9b57"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<rect width="1800" height="1000" fill="url(#sky)"/>
+<circle cx="1450" cy="190" r="95" fill="#fff3b1" opacity=".75"/>
+<g fill="#fff" opacity=".62"><ellipse cx="340" cy="190" rx="180" ry="45"/><ellipse cx="420" cy="160" rx="130" ry="55"/><ellipse cx="1120" cy="260" rx="210" ry="48"/><ellipse cx="1210" cy="225" rx="130" ry="60"/></g>
+<path d="M0 590 Q260 420 500 570 T1000 545 T1800 520 V1000 H0Z" fill="#9edc8b"/>
+<path d="M0 700 Q340 530 650 690 T1250 660 T1800 630 V1000 H0Z" fill="url(#grass)"/>
+<g opacity=".9"><g fill="#347e4a"><circle cx="180" cy="570" r="105"/><circle cx="250" cy="525" r="125"/><circle cx="330" cy="590" r="95"/><circle cx="1530" cy="530" r="120"/><circle cx="1640" cy="570" r="145"/><circle cx="1440" cy="590" r="90"/></g><g fill="#5da85b"><circle cx="210" cy="520" r="72"/><circle cx="300" cy="555" r="74"/><circle cx="1570" cy="490" r="80"/><circle cx="1660" cy="545" r="90"/></g></g>
+<!-- modern green-energy home -->
+<g transform="translate(520 250)">
+ <rect x="150" y="270" width="650" height="390" rx="8" fill="url(#wall)" stroke="#b6cbb6" stroke-width="8"/>
+ <path d="M70 300 L470 30 L870 300 Z" fill="url(#roof)" stroke="#315b50" stroke-width="12"/>
+ <path d="M115 278 L470 50 L825 278" fill="none" stroke="#d7e8d5" stroke-width="8" opacity=".8"/>
+ <!-- solar modules fixed to roof -->
+ <g transform="translate(315 92) skewX(-28)">
+  <rect width="350" height="155" rx="5" fill="url(#panel)" stroke="#d7f4ee" stroke-width="8"/>
+  <g stroke="#a8dce2" stroke-width="4" opacity=".85"><path d="M70 0V155 M140 0V155 M210 0V155 M280 0V155 M0 52H350 M0 104H350"/></g>
+  <path d="M10 12L90 12L25 142H0Z" fill="#fff" opacity=".12"/>
+ </g>
+ <rect x="220" y="390" width="170" height="270" rx="5" fill="#b8d9d5" stroke="#739b92" stroke-width="8"/>
+ <rect x="245" y="420" width="120" height="125" fill="#7bb2b5"/><path d="M305 420V545 M245 482H365" stroke="#e9ffff" stroke-width="5"/>
+ <rect x="510" y="390" width="190" height="150" rx="5" fill="#9bc8ca" stroke="#739b92" stroke-width="8"/>
+ <path d="M605 390V540 M510 465H700" stroke="#f2ffff" stroke-width="6"/>
+ <rect x="530" y="580" width="115" height="80" fill="#b6d9c6"/>
+ <path d="M150 660H800" stroke="#9cb79f" stroke-width="12"/>
+</g>
+<g fill="#fff" opacity=".75"><path d="M100 900q40-90 80 0q40-110 85 0q45-70 80 0Z"/><path d="M1380 900q45-110 90 0q40-85 80 0q45-105 90 0Z"/></g>
+<g fill="#f5fff1" opacity=".65"><circle cx="430" cy="800" r="9"/><circle cx="470" cy="850" r="7"/><circle cx="1290" cy="820" r="8"/><circle cx="1340" cy="875" r="6"/></g>
+</svg>
