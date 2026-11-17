@@ -1,1 +1,1763 @@
+[
+  {
+    "id": 1,
+    "category": "Inverter",
+    "name": "Luminous Eco Volt 700 VA",
+    "spec": "700 VA",
+    "stock": 12,
+    "price": 6500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 2,
+    "category": "Inverter",
+    "name": "Microtek UPS EB 900 VA",
+    "spec": "900 VA",
+    "stock": 13,
+    "price": 7350,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 3,
+    "category": "Inverter",
+    "name": "Luminous Zelio+ 1100 VA",
+    "spec": "1100 VA",
+    "stock": 14,
+    "price": 8200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 4,
+    "category": "Inverter",
+    "name": "Microtek 1.1 kVA Pure Sine Wave",
+    "spec": "1.1 kVA",
+    "stock": 15,
+    "price": 9050,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 5,
+    "category": "Inverter",
+    "name": "V-Guard Smart Pro 1200",
+    "spec": "1200 VA",
+    "stock": 16,
+    "price": 9900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 6,
+    "category": "Inverter",
+    "name": "Exide 850 VA Home UPS",
+    "spec": "850 VA",
+    "stock": 17,
+    "price": 10750,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 7,
+    "category": "Inverter",
+    "name": "Genus 1 kVA Home UPS",
+    "spec": "1 kVA",
+    "stock": 18,
+    "price": 11600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 8,
+    "category": "Inverter",
+    "name": "Livguard 900 VA Inverter",
+    "spec": "900 VA",
+    "stock": 19,
+    "price": 12450,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 9,
+    "category": "Inverter",
+    "name": "UTL 1 kVA Solar PCU",
+    "spec": "1 kVA",
+    "stock": 20,
+    "price": 13300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 10,
+    "category": "Inverter",
+    "name": "Luminous 1.5 kVA Inverter",
+    "spec": "1.5 kVA",
+    "stock": 12,
+    "price": 14150,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 11,
+    "category": "Inverter",
+    "name": "Microtek 1.6 kVA Inverter",
+    "spec": "1.6 kVA",
+    "stock": 13,
+    "price": 15000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 12,
+    "category": "Inverter",
+    "name": "V-Guard 1.5 kVA Inverter",
+    "spec": "1.5 kVA",
+    "stock": 14,
+    "price": 15850,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 13,
+    "category": "Inverter",
+    "name": "Exide 1.5 kVA Home UPS",
+    "spec": "1.5 kVA",
+    "stock": 15,
+    "price": 16700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 14,
+    "category": "Inverter",
+    "name": "Genus 1.5 kVA Inverter",
+    "spec": "1.5 kVA",
+    "stock": 16,
+    "price": 17550,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 15,
+    "category": "Inverter",
+    "name": "Livguard 1.5 kVA Inverter",
+    "spec": "1.5 kVA",
+    "stock": 17,
+    "price": 18400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 16,
+    "category": "Inverter",
+    "name": "Luminous 2 kVA Inverter",
+    "spec": "2 kVA",
+    "stock": 18,
+    "price": 19250,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 17,
+    "category": "Inverter",
+    "name": "Microtek 2 kVA Inverter",
+    "spec": "2 kVA",
+    "stock": 19,
+    "price": 20100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 18,
+    "category": "Inverter",
+    "name": "V-Guard 2 kVA Inverter",
+    "spec": "2 kVA",
+    "stock": 20,
+    "price": 20950,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 19,
+    "category": "Inverter",
+    "name": "UTL 2 kVA Solar Inverter",
+    "spec": "2 kVA",
+    "stock": 12,
+    "price": 21800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 20,
+    "category": "Inverter",
+    "name": "Luminous 3 kVA Inverter",
+    "spec": "3 kVA",
+    "stock": 13,
+    "price": 22650,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 21,
+    "category": "Inverter",
+    "name": "Microtek 3 kVA Inverter",
+    "spec": "3 kVA",
+    "stock": 14,
+    "price": 23500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 22,
+    "category": "Inverter",
+    "name": "Deye 5 kW Hybrid Inverter",
+    "spec": "5 kW",
+    "stock": 15,
+    "price": 24350,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 23,
+    "category": "Inverter",
+    "name": "Waaree 5 kW Hybrid Inverter",
+    "spec": "5 kW",
+    "stock": 16,
+    "price": 25200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 24,
+    "category": "Inverter",
+    "name": "Deye 10 kW Three Phase Inverter",
+    "spec": "10 kW",
+    "stock": 17,
+    "price": 26050,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 25,
+    "category": "Inverter",
+    "name": "Luminous 5 kW Solar Inverter",
+    "spec": "5 kW",
+    "stock": 18,
+    "price": 26900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/inverter.webp"
+  },
+  {
+    "id": 26,
+    "category": "Battery",
+    "name": "Exide 100 Ah Tubular Battery",
+    "spec": "100 Ah",
+    "stock": 12,
+    "price": 9500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 27,
+    "category": "Battery",
+    "name": "Luminous 100 Ah Tall Tubular",
+    "spec": "100 Ah",
+    "stock": 13,
+    "price": 10200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 28,
+    "category": "Battery",
+    "name": "Amaron 100 Ah Tall Tubular",
+    "spec": "100 Ah",
+    "stock": 14,
+    "price": 10900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 29,
+    "category": "Battery",
+    "name": "Livguard 100 Ah Tubular",
+    "spec": "100 Ah",
+    "stock": 15,
+    "price": 11600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 30,
+    "category": "Battery",
+    "name": "V-Guard 100 Ah Battery",
+    "spec": "100 Ah",
+    "stock": 16,
+    "price": 12300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 31,
+    "category": "Battery",
+    "name": "Microtek 120 Ah Tubular",
+    "spec": "120 Ah",
+    "stock": 17,
+    "price": 13000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 32,
+    "category": "Battery",
+    "name": "Exide 120 Ah Tubular",
+    "spec": "120 Ah",
+    "stock": 18,
+    "price": 13700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 33,
+    "category": "Battery",
+    "name": "Luminous 120 Ah Tall Tubular",
+    "spec": "120 Ah",
+    "stock": 19,
+    "price": 14400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 34,
+    "category": "Battery",
+    "name": "Amaron 135 Ah Tubular",
+    "spec": "135 Ah",
+    "stock": 20,
+    "price": 15100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 35,
+    "category": "Battery",
+    "name": "Exide 150 Ah Tubular",
+    "spec": "150 Ah",
+    "stock": 12,
+    "price": 15800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 36,
+    "category": "Battery",
+    "name": "Luminous 150 Ah Tall Tubular",
+    "spec": "150 Ah",
+    "stock": 13,
+    "price": 16500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 37,
+    "category": "Battery",
+    "name": "Livguard 150 Ah Tubular",
+    "spec": "150 Ah",
+    "stock": 14,
+    "price": 17200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 38,
+    "category": "Battery",
+    "name": "V-Guard 150 Ah Battery",
+    "spec": "150 Ah",
+    "stock": 15,
+    "price": 17900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 39,
+    "category": "Battery",
+    "name": "Microtek 150 Ah Tubular",
+    "spec": "150 Ah",
+    "stock": 16,
+    "price": 18600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 40,
+    "category": "Battery",
+    "name": "Genus 150 Ah Tubular",
+    "spec": "150 Ah",
+    "stock": 17,
+    "price": 19300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 41,
+    "category": "Battery",
+    "name": "Exide 180 Ah Tubular",
+    "spec": "180 Ah",
+    "stock": 18,
+    "price": 20000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 42,
+    "category": "Battery",
+    "name": "Luminous 180 Ah Tall Tubular",
+    "spec": "180 Ah",
+    "stock": 19,
+    "price": 20700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 43,
+    "category": "Battery",
+    "name": "Amaron 180 Ah Tubular",
+    "spec": "180 Ah",
+    "stock": 20,
+    "price": 21400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 44,
+    "category": "Battery",
+    "name": "Exide 200 Ah Tubular",
+    "spec": "200 Ah",
+    "stock": 12,
+    "price": 22100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 45,
+    "category": "Battery",
+    "name": "Luminous 200 Ah Tall Tubular",
+    "spec": "200 Ah",
+    "stock": 13,
+    "price": 22800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 46,
+    "category": "Battery",
+    "name": "Livguard 200 Ah Tubular",
+    "spec": "200 Ah",
+    "stock": 14,
+    "price": 23500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/battery.webp"
+  },
+  {
+    "id": 47,
+    "category": "Battery",
+    "name": "UTL 12.8 V Lithium Battery",
+    "spec": "12.8 V LiFePO4",
+    "stock": 15,
+    "price": 24200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/lithium-battery.webp"
+  },
+  {
+    "id": 48,
+    "category": "Battery",
+    "name": "Waaree 51.2 V 100 Ah Lithium Battery",
+    "spec": "5.12 kWh",
+    "stock": 16,
+    "price": 24900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/lithium-battery.webp"
+  },
+  {
+    "id": 49,
+    "category": "Battery",
+    "name": "Microtek 51.2 V Lithium Battery",
+    "spec": "5.12 kWh",
+    "stock": 17,
+    "price": 25600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/lithium-battery.webp"
+  },
+  {
+    "id": 50,
+    "category": "Battery",
+    "name": "Hykon HiLIFE Lithium Battery Pack",
+    "spec": "LiFePO4",
+    "stock": 18,
+    "price": 26300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/lithium-battery.webp"
+  },
+  {
+    "id": 51,
+    "category": "Solar Water Heater",
+    "name": "V-Guard ETC 100 L Solar Water Heater",
+    "spec": "100 L ETC",
+    "stock": 12,
+    "price": 24000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 52,
+    "category": "Solar Water Heater",
+    "name": "V-Guard ETC 150 L Solar Water Heater",
+    "spec": "150 L ETC",
+    "stock": 13,
+    "price": 25800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 53,
+    "category": "Solar Water Heater",
+    "name": "V-Guard ETC 200 L Solar Water Heater",
+    "spec": "200 L ETC",
+    "stock": 14,
+    "price": 27600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 54,
+    "category": "Solar Water Heater",
+    "name": "V-Guard ETC 300 L Solar Water Heater",
+    "spec": "300 L ETC",
+    "stock": 15,
+    "price": 29400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 55,
+    "category": "Solar Water Heater",
+    "name": "V-Guard ETC 500 L Solar Water Heater",
+    "spec": "500 L ETC",
+    "stock": 16,
+    "price": 31200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 56,
+    "category": "Solar Water Heater",
+    "name": "Hykon 100 L Solar Water Heater",
+    "spec": "100 L",
+    "stock": 17,
+    "price": 33000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 57,
+    "category": "Solar Water Heater",
+    "name": "Hykon 150 L Solar Water Heater",
+    "spec": "150 L",
+    "stock": 18,
+    "price": 34800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 58,
+    "category": "Solar Water Heater",
+    "name": "Hykon 200 L Solar Water Heater",
+    "spec": "200 L",
+    "stock": 19,
+    "price": 36600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 59,
+    "category": "Solar Water Heater",
+    "name": "Hykon 300 L Solar Water Heater",
+    "spec": "300 L",
+    "stock": 20,
+    "price": 38400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 60,
+    "category": "Solar Water Heater",
+    "name": "Hykon 500 L Solar Water Heater",
+    "spec": "500 L",
+    "stock": 12,
+    "price": 40200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 61,
+    "category": "Solar Water Heater",
+    "name": "Supreme 100 L ETC Heater",
+    "spec": "100 L ETC",
+    "stock": 13,
+    "price": 42000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 62,
+    "category": "Solar Water Heater",
+    "name": "Supreme 200 L ETC Heater",
+    "spec": "200 L ETC",
+    "stock": 14,
+    "price": 43800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 63,
+    "category": "Solar Water Heater",
+    "name": "Supreme 300 L ETC Heater",
+    "spec": "300 L ETC",
+    "stock": 15,
+    "price": 45600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 64,
+    "category": "Solar Water Heater",
+    "name": "Supreme 500 L ETC Heater",
+    "spec": "500 L ETC",
+    "stock": 16,
+    "price": 47400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 65,
+    "category": "Solar Water Heater",
+    "name": "FPC 100 L Solar Water Heater",
+    "spec": "100 L FPC",
+    "stock": 17,
+    "price": 49200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 66,
+    "category": "Solar Water Heater",
+    "name": "FPC 150 L Solar Water Heater",
+    "spec": "150 L FPC",
+    "stock": 18,
+    "price": 51000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 67,
+    "category": "Solar Water Heater",
+    "name": "FPC 200 L Solar Water Heater",
+    "spec": "200 L FPC",
+    "stock": 19,
+    "price": 52800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 68,
+    "category": "Solar Water Heater",
+    "name": "FPC 300 L Solar Water Heater",
+    "spec": "300 L FPC",
+    "stock": 20,
+    "price": 54600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 69,
+    "category": "Solar Water Heater",
+    "name": "Pressurised 150 L Solar Water Heater",
+    "spec": "150 L Pressurised",
+    "stock": 12,
+    "price": 56400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 70,
+    "category": "Solar Water Heater",
+    "name": "Pressurised 200 L Solar Water Heater",
+    "spec": "200 L Pressurised",
+    "stock": 13,
+    "price": 58200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 71,
+    "category": "Solar Water Heater",
+    "name": "Pressurised 300 L Solar Water Heater",
+    "spec": "300 L Pressurised",
+    "stock": 14,
+    "price": 60000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 72,
+    "category": "Solar Water Heater",
+    "name": "Pressurised 500 L Solar Water Heater",
+    "spec": "500 L Pressurised",
+    "stock": 15,
+    "price": 61800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 73,
+    "category": "Solar Water Heater",
+    "name": "Evacuated Tube 400 L Heater",
+    "spec": "400 L ETC",
+    "stock": 16,
+    "price": 63600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 74,
+    "category": "Solar Water Heater",
+    "name": "Evacuated Tube 600 L Heater",
+    "spec": "600 L ETC",
+    "stock": 17,
+    "price": 65400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 75,
+    "category": "Solar Water Heater",
+    "name": "Commercial 1000 L Solar Water Heater",
+    "spec": "1000 L Commercial",
+    "stock": 18,
+    "price": 67200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-water-heater.webp"
+  },
+  {
+    "id": 76,
+    "category": "Water Purifier",
+    "name": "Kent Grand Plus RO + UV",
+    "spec": "RO+UV",
+    "stock": 12,
+    "price": 8500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 77,
+    "category": "Water Purifier",
+    "name": "Kent Supreme RO + UV + UF",
+    "spec": "RO+UV+UF",
+    "stock": 13,
+    "price": 9400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 78,
+    "category": "Water Purifier",
+    "name": "Aquaguard Aura RO + UV",
+    "spec": "RO+UV",
+    "stock": 14,
+    "price": 10300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 79,
+    "category": "Water Purifier",
+    "name": "Aquaguard Marvel NXT RO + UV",
+    "spec": "RO+UV",
+    "stock": 15,
+    "price": 11200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 80,
+    "category": "Water Purifier",
+    "name": "Aquaguard Sure Delight RO + UV",
+    "spec": "RO+UV",
+    "stock": 16,
+    "price": 12100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 81,
+    "category": "Water Purifier",
+    "name": "Livpure Glo Pro++ RO + UV",
+    "spec": "RO+UV",
+    "stock": 17,
+    "price": 13000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 82,
+    "category": "Water Purifier",
+    "name": "Livpure Bolt+ RO + UV",
+    "spec": "RO+UV",
+    "stock": 18,
+    "price": 13900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 83,
+    "category": "Water Purifier",
+    "name": "HUL Pureit RO + MF",
+    "spec": "RO+MF",
+    "stock": 19,
+    "price": 14800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 84,
+    "category": "Water Purifier",
+    "name": "Pureit Eco Water Saver RO",
+    "spec": "RO",
+    "stock": 20,
+    "price": 15700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 85,
+    "category": "Water Purifier",
+    "name": "AO Smith Z9 RO Purifier",
+    "spec": "RO",
+    "stock": 12,
+    "price": 16600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 86,
+    "category": "Water Purifier",
+    "name": "AO Smith Z8 RO Purifier",
+    "spec": "RO",
+    "stock": 13,
+    "price": 17500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 87,
+    "category": "Water Purifier",
+    "name": "Blue Star Aristo RO + UV",
+    "spec": "RO+UV",
+    "stock": 14,
+    "price": 18400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 88,
+    "category": "Water Purifier",
+    "name": "Blue Star Stella RO + UV",
+    "spec": "RO+UV",
+    "stock": 15,
+    "price": 19300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 89,
+    "category": "Water Purifier",
+    "name": "V-Guard Zenora RO + UF",
+    "spec": "RO+UF",
+    "stock": 16,
+    "price": 20200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 90,
+    "category": "Water Purifier",
+    "name": "Native M1 RO Purifier",
+    "spec": "RO",
+    "stock": 17,
+    "price": 21100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 91,
+    "category": "Water Purifier",
+    "name": "Native M2 RO Purifier",
+    "spec": "RO",
+    "stock": 18,
+    "price": 22000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 92,
+    "category": "Water Purifier",
+    "name": "Copper RO + UV Water Purifier",
+    "spec": "RO+UV Copper",
+    "stock": 19,
+    "price": 22900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 93,
+    "category": "Water Purifier",
+    "name": "Alkaline RO Water Purifier",
+    "spec": "RO Alkaline",
+    "stock": 20,
+    "price": 23800,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 94,
+    "category": "Water Purifier",
+    "name": "UV + UF Water Purifier",
+    "spec": "UV+UF",
+    "stock": 12,
+    "price": 24700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 95,
+    "category": "Water Purifier",
+    "name": "UF Gravity Water Purifier",
+    "spec": "UF",
+    "stock": 13,
+    "price": 25600,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 96,
+    "category": "Water Purifier",
+    "name": "UV Water Purifier",
+    "spec": "UV",
+    "stock": 14,
+    "price": 26500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 97,
+    "category": "Water Purifier",
+    "name": "Commercial RO 25 LPH",
+    "spec": "25 LPH",
+    "stock": 15,
+    "price": 27400,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 98,
+    "category": "Water Purifier",
+    "name": "Commercial RO 50 LPH",
+    "spec": "50 LPH",
+    "stock": 16,
+    "price": 28300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 99,
+    "category": "Water Purifier",
+    "name": "Commercial RO 100 LPH",
+    "spec": "100 LPH",
+    "stock": 17,
+    "price": 29200,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 100,
+    "category": "Water Purifier",
+    "name": "Under Sink RO Water Purifier",
+    "spec": "Under-sink RO",
+    "stock": 18,
+    "price": 30100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/water-purifier.webp"
+  },
+  {
+    "id": 101,
+    "category": "Solar System",
+    "name": "1 kW On-grid Solar System",
+    "spec": "1 kW On-grid",
+    "stock": 12,
+    "price": 65000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 102,
+    "category": "Solar System",
+    "name": "1.5 kW On-grid Solar System",
+    "spec": "1.5 kW On-grid",
+    "stock": 13,
+    "price": 83000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 103,
+    "category": "Solar System",
+    "name": "2 kW On-grid Solar System",
+    "spec": "2 kW On-grid",
+    "stock": 14,
+    "price": 101000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 104,
+    "category": "Solar System",
+    "name": "2.5 kW On-grid Solar System",
+    "spec": "2.5 kW On-grid",
+    "stock": 15,
+    "price": 119000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 105,
+    "category": "Solar System",
+    "name": "3 kW On-grid Solar System",
+    "spec": "3 kW On-grid",
+    "stock": 16,
+    "price": 137000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 106,
+    "category": "Solar System",
+    "name": "3.3 kW On-grid Solar System",
+    "spec": "3.3 kW On-grid",
+    "stock": 17,
+    "price": 155000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 107,
+    "category": "Solar System",
+    "name": "4 kW On-grid Solar System",
+    "spec": "4 kW On-grid",
+    "stock": 18,
+    "price": 173000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 108,
+    "category": "Solar System",
+    "name": "5 kW On-grid Solar System",
+    "spec": "5 kW On-grid",
+    "stock": 19,
+    "price": 191000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 109,
+    "category": "Solar System",
+    "name": "6 kW On-grid Solar System",
+    "spec": "6 kW On-grid",
+    "stock": 20,
+    "price": 209000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 110,
+    "category": "Solar System",
+    "name": "7.5 kW On-grid Solar System",
+    "spec": "7.5 kW On-grid",
+    "stock": 12,
+    "price": 227000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 111,
+    "category": "Solar System",
+    "name": "10 kW On-grid Solar System",
+    "spec": "10 kW On-grid",
+    "stock": 13,
+    "price": 245000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 112,
+    "category": "Solar System",
+    "name": "15 kW On-grid Solar System",
+    "spec": "15 kW On-grid",
+    "stock": 14,
+    "price": 263000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 113,
+    "category": "Solar System",
+    "name": "20 kW On-grid Solar System",
+    "spec": "20 kW On-grid",
+    "stock": 15,
+    "price": 281000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 114,
+    "category": "Solar System",
+    "name": "25 kW On-grid Solar System",
+    "spec": "25 kW On-grid",
+    "stock": 16,
+    "price": 299000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 115,
+    "category": "Solar System",
+    "name": "30 kW On-grid Solar System",
+    "spec": "30 kW On-grid",
+    "stock": 17,
+    "price": 317000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 116,
+    "category": "Solar System",
+    "name": "50 kW On-grid Solar System",
+    "spec": "50 kW On-grid",
+    "stock": 18,
+    "price": 335000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 117,
+    "category": "Solar System",
+    "name": "1 kW Off-grid Solar System",
+    "spec": "1 kW Off-grid",
+    "stock": 19,
+    "price": 353000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 118,
+    "category": "Solar System",
+    "name": "2 kW Off-grid Solar System",
+    "spec": "2 kW Off-grid",
+    "stock": 20,
+    "price": 371000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 119,
+    "category": "Solar System",
+    "name": "3 kW Off-grid Solar System",
+    "spec": "3 kW Off-grid",
+    "stock": 12,
+    "price": 389000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 120,
+    "category": "Solar System",
+    "name": "5 kW Off-grid Solar System",
+    "spec": "5 kW Off-grid",
+    "stock": 13,
+    "price": 407000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 121,
+    "category": "Solar System",
+    "name": "1 kW Hybrid Solar System",
+    "spec": "1 kW Hybrid",
+    "stock": 14,
+    "price": 425000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 122,
+    "category": "Solar System",
+    "name": "2.5 kW Hybrid Solar System",
+    "spec": "2.5 kW Hybrid",
+    "stock": 15,
+    "price": 443000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 123,
+    "category": "Solar System",
+    "name": "3 kW Hybrid Solar System",
+    "spec": "3 kW Hybrid",
+    "stock": 16,
+    "price": 461000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 124,
+    "category": "Solar System",
+    "name": "5 kW Hybrid Solar System",
+    "spec": "5 kW Hybrid",
+    "stock": 17,
+    "price": 479000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 125,
+    "category": "Solar System",
+    "name": "10 kW Hybrid Solar System",
+    "spec": "10 kW Hybrid",
+    "stock": 18,
+    "price": 497000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/solar-panels.webp"
+  },
+  {
+    "id": 126,
+    "category": "Hybrid Solar",
+    "name": "1 kW Hybrid Solar Kit",
+    "spec": "1 kW",
+    "stock": 12,
+    "price": 85000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 127,
+    "category": "Hybrid Solar",
+    "name": "1.5 kW Hybrid Solar Kit",
+    "spec": "1.5 kW",
+    "stock": 13,
+    "price": 107000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 128,
+    "category": "Hybrid Solar",
+    "name": "2 kW Hybrid Solar Kit",
+    "spec": "2 kW",
+    "stock": 14,
+    "price": 129000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 129,
+    "category": "Hybrid Solar",
+    "name": "2.5 kW Hybrid Solar Kit",
+    "spec": "2.5 kW",
+    "stock": 15,
+    "price": 151000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 130,
+    "category": "Hybrid Solar",
+    "name": "3 kW Hybrid Solar Kit",
+    "spec": "3 kW",
+    "stock": 16,
+    "price": 173000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 131,
+    "category": "Hybrid Solar",
+    "name": "3.5 kW Hybrid Solar Kit",
+    "spec": "3.5 kW",
+    "stock": 17,
+    "price": 195000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 132,
+    "category": "Hybrid Solar",
+    "name": "4 kW Hybrid Solar Kit",
+    "spec": "4 kW",
+    "stock": 18,
+    "price": 217000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 133,
+    "category": "Hybrid Solar",
+    "name": "5 kW Hybrid Solar Kit",
+    "spec": "5 kW",
+    "stock": 19,
+    "price": 239000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 134,
+    "category": "Hybrid Solar",
+    "name": "6 kW Hybrid Solar Kit",
+    "spec": "6 kW",
+    "stock": 20,
+    "price": 261000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 135,
+    "category": "Hybrid Solar",
+    "name": "7.5 kW Hybrid Solar Kit",
+    "spec": "7.5 kW",
+    "stock": 12,
+    "price": 283000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 136,
+    "category": "Hybrid Solar",
+    "name": "8 kW Hybrid Solar Kit",
+    "spec": "8 kW",
+    "stock": 13,
+    "price": 305000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 137,
+    "category": "Hybrid Solar",
+    "name": "10 kW Hybrid Solar Kit",
+    "spec": "10 kW",
+    "stock": 14,
+    "price": 327000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 138,
+    "category": "Hybrid Solar",
+    "name": "12 kW Hybrid Solar Kit",
+    "spec": "12 kW",
+    "stock": 15,
+    "price": 349000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 139,
+    "category": "Hybrid Solar",
+    "name": "15 kW Hybrid Solar Kit",
+    "spec": "15 kW",
+    "stock": 16,
+    "price": 371000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 140,
+    "category": "Hybrid Solar",
+    "name": "20 kW Hybrid Solar Kit",
+    "spec": "20 kW",
+    "stock": 17,
+    "price": 393000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 141,
+    "category": "Hybrid Solar",
+    "name": "25 kW Hybrid Solar Kit",
+    "spec": "25 kW",
+    "stock": 18,
+    "price": 415000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 142,
+    "category": "Hybrid Solar",
+    "name": "30 kW Hybrid Solar Kit",
+    "spec": "30 kW",
+    "stock": 19,
+    "price": 437000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 143,
+    "category": "Hybrid Solar",
+    "name": "3 kW Hybrid + Lithium Combo",
+    "spec": "3 kW + Lithium",
+    "stock": 20,
+    "price": 459000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 144,
+    "category": "Hybrid Solar",
+    "name": "5 kW Hybrid + Lithium Combo",
+    "spec": "5 kW + Lithium",
+    "stock": 12,
+    "price": 481000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 145,
+    "category": "Hybrid Solar",
+    "name": "10 kW Hybrid + Lithium Combo",
+    "spec": "10 kW + Lithium",
+    "stock": 13,
+    "price": 503000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 146,
+    "category": "Hybrid Solar",
+    "name": "3 kW Hybrid + Tubular Battery Combo",
+    "spec": "3 kW + Tubular",
+    "stock": 14,
+    "price": 525000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 147,
+    "category": "Hybrid Solar",
+    "name": "5 kW Hybrid + Tubular Battery Combo",
+    "spec": "5 kW + Tubular",
+    "stock": 15,
+    "price": 547000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 148,
+    "category": "Hybrid Solar",
+    "name": "Solar PCU 1 kVA Kit",
+    "spec": "1 kVA PCU",
+    "stock": 16,
+    "price": 569000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 149,
+    "category": "Hybrid Solar",
+    "name": "Solar PCU 3 kVA Kit",
+    "spec": "3 kVA PCU",
+    "stock": 17,
+    "price": 591000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 150,
+    "category": "Hybrid Solar",
+    "name": "Solar PCU 5 kVA Kit",
+    "spec": "5 kVA PCU",
+    "stock": 18,
+    "price": 613000,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/hybrid-inverter.webp"
+  },
+  {
+    "id": 151,
+    "category": "CCTV System",
+    "name": "CP Plus 2 MP Dome CCTV Camera",
+    "spec": "2 MP Dome",
+    "stock": 12,
+    "price": 2500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 152,
+    "category": "CCTV System",
+    "name": "CP Plus 2 MP Bullet CCTV Camera",
+    "spec": "2 MP Bullet",
+    "stock": 13,
+    "price": 3700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 153,
+    "category": "CCTV System",
+    "name": "CP Plus 5 MP Dome CCTV Camera",
+    "spec": "5 MP Dome",
+    "stock": 14,
+    "price": 4900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 154,
+    "category": "CCTV System",
+    "name": "CP Plus 5 MP Bullet CCTV Camera",
+    "spec": "5 MP Bullet",
+    "stock": 15,
+    "price": 6100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 155,
+    "category": "CCTV System",
+    "name": "Hikvision 2 MP Dome Camera",
+    "spec": "2 MP Dome",
+    "stock": 16,
+    "price": 7300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 156,
+    "category": "CCTV System",
+    "name": "Hikvision 2 MP Bullet Camera",
+    "spec": "2 MP Bullet",
+    "stock": 17,
+    "price": 8500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 157,
+    "category": "CCTV System",
+    "name": "Hikvision 5 MP Dome Camera",
+    "spec": "5 MP Dome",
+    "stock": 18,
+    "price": 9700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 158,
+    "category": "CCTV System",
+    "name": "Hikvision 5 MP Bullet Camera",
+    "spec": "5 MP Bullet",
+    "stock": 19,
+    "price": 10900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 159,
+    "category": "CCTV System",
+    "name": "PRAMA 2 MP IP Camera",
+    "spec": "2 MP IP",
+    "stock": 20,
+    "price": 12100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 160,
+    "category": "CCTV System",
+    "name": "PRAMA 4 MP IP Camera",
+    "spec": "4 MP IP",
+    "stock": 12,
+    "price": 13300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 161,
+    "category": "CCTV System",
+    "name": "Honeywell 2 MP IP Camera",
+    "spec": "2 MP IP",
+    "stock": 13,
+    "price": 14500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 162,
+    "category": "CCTV System",
+    "name": "Matrix SATATYA IP Camera",
+    "spec": "IP Camera",
+    "stock": 14,
+    "price": 15700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 163,
+    "category": "CCTV System",
+    "name": "Godrej Wi-Fi Security Camera",
+    "spec": "Wi-Fi",
+    "stock": 15,
+    "price": 16900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 164,
+    "category": "CCTV System",
+    "name": "Qubo Smart Wi-Fi Camera",
+    "spec": "Wi-Fi",
+    "stock": 16,
+    "price": 18100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 165,
+    "category": "CCTV System",
+    "name": "TP-Link Tapo Indoor Camera",
+    "spec": "Indoor Wi-Fi",
+    "stock": 17,
+    "price": 19300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 166,
+    "category": "CCTV System",
+    "name": "TP-Link Tapo Outdoor Camera",
+    "spec": "Outdoor Wi-Fi",
+    "stock": 18,
+    "price": 20500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 167,
+    "category": "CCTV System",
+    "name": "4 Channel DVR CCTV Kit",
+    "spec": "4 Channel Kit",
+    "stock": 19,
+    "price": 21700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 168,
+    "category": "CCTV System",
+    "name": "8 Channel DVR CCTV Kit",
+    "spec": "8 Channel Kit",
+    "stock": 20,
+    "price": 22900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 169,
+    "category": "CCTV System",
+    "name": "16 Channel DVR CCTV Kit",
+    "spec": "16 Channel Kit",
+    "stock": 12,
+    "price": 24100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 170,
+    "category": "CCTV System",
+    "name": "4 Camera IP CCTV Kit with NVR",
+    "spec": "4 Camera NVR",
+    "stock": 13,
+    "price": 25300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 171,
+    "category": "CCTV System",
+    "name": "8 Camera IP CCTV Kit with NVR",
+    "spec": "8 Camera NVR",
+    "stock": 14,
+    "price": 26500,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 172,
+    "category": "CCTV System",
+    "name": "4G SIM CCTV Camera",
+    "spec": "4G SIM",
+    "stock": 15,
+    "price": 27700,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 173,
+    "category": "CCTV System",
+    "name": "Solar Powered CCTV Camera",
+    "spec": "Solar CCTV",
+    "stock": 16,
+    "price": 28900,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 174,
+    "category": "CCTV System",
+    "name": "PTZ CCTV Camera",
+    "spec": "PTZ",
+    "stock": 17,
+    "price": 30100,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 175,
+    "category": "CCTV System",
+    "name": "Video Door Phone + Camera Kit",
+    "spec": "Video Door Phone",
+    "stock": 18,
+    "price": 31300,
+    "warranty": "Confirm exact model, stock and warranty with owner",
+    "image": "product-images/cctv.webp"
+  },
+  {
+    "id": 176,
+    "category": "Accessories",
+    "name": "Solar / Inverter Accessories",
+    "spec": "Various",
+    "stock": 10,
+    "price": 500,
+    "warranty": "Confirm with owner",
+    "image": "product-images/solar-accessories.webp"
+  }
+]
 
